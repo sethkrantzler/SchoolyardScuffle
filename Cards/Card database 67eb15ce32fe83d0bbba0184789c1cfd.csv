@@ -1,0 +1,116 @@
+﻿name,cliquetabPath,backgroundPath,cost,playedPower,flavor,icon1,icon2,icon3,artPath,powerType,powerDescription,isSandbox,quantity
+Time’s up,tabs/Hall_Monitor.png,backgrounds/Hall_Monitor.png,0,Move 2 cards to the back of the line,,tabs/backpack.png,tabs/blank.png,tabs/blank.png,art/Time’s_up.png,,,No,1
+Your hands are too clean,tabs/Dirt_Specialist.png,backgrounds/Dirt_Specialist.png,0,Move 2 cards to the back of the line,,tabs/bug.png,tabs/blank.png,tabs/blank.png,art/Your_hands_are_too_clean.png,,,No,1
+By my calculations,tabs/Mathlete.png,backgrounds/Mathlete.png,0,Move 2 cards to the back of the line,,tabs/banana.png,tabs/blank.png,tabs/blank.png,art/By_my_calculations.png,,,No,1
+What’re the odds,tabs/,backgrounds/,0,"Dice tag: before rolling, call your roll; if you’re right, play the card again",,tabs/dice.png,tabs/blank.png,tabs/blank.png,art/What’re_the_odds.png,,,Yes,1
+Secret tunnel,tabs/Hall_Monitor.png,backgrounds/Hall_Monitor.png,0,Move kids between bases on tiles you own for the regular cost,,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Secret_tunnel.png,,,No,1
+He went that way,tabs/Hall_Monitor.png,backgrounds/Hall_Monitor.png,0,You may move another player’s kids instead of your own,,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/He_went_that_way.png,,,No,1
+Child mercenary,tabs/PE_Enthusiast.png,backgrounds/PE_Enthusiast.png,0,You may scuffle using another player’s kids,,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Child_mercenary.png,,,No,1
+Skirmish,tabs/Hall_Monitor.png,backgrounds/Hall_Monitor.png,0,Start a scuffle,,tabs/flex.png,tabs/blank.png,tabs/blank.png,art/Skirmish.png,,,No,1
+Ruckus,tabs/Dirt_Specialist.png,backgrounds/Dirt_Specialist.png,0,Start a scuffle,,tabs/flex.png,tabs/blank.png,tabs/blank.png,art/Ruckus.png,,,No,1
+Tussle,tabs/Mathlete.png,backgrounds/Mathlete.png,0,Start a scuffle,,tabs/flex.png,tabs/blank.png,tabs/blank.png,art/Tussle.png,,,No,1
+Double scuffle,tabs/PE_Enthusiast.png,backgrounds/PE_Enthusiast.png,0,Start an extra scuffle with a second player,,tabs/flex.png,tabs/blank.png,tabs/blank.png,art/Double_scuffle.png,,,No,1
+Young & wild,tabs/All_Cliques.png,backgrounds/All_Cliques.png,0,,,tabs/wild.png,tabs/blank.png,tabs/blank.png,art/Young_&_wild.png,,,No,1
+Seat’s taken,tabs/Hall_Monitor.png,backgrounds/Hall_Monitor.png,1,Build bases (still pay the cost),,tabs/bug.png,tabs/blank.png,tabs/blank.png,art/Seat’s_taken.png,,,No,1
+Confidence builder,tabs/,backgrounds/,1,Flex tag: Cache a rock at a base on any tile you control,,tabs/flex.png,tabs/blank.png,tabs/blank.png,art/Confidence_builder.png,,,Yes,1
+Stick it to them,tabs/PE_Enthusiast.png,backgrounds/PE_Enthusiast.png,1,Spend 1 stick for an extra rock,,tabs/flex.png,tabs/bug.png,tabs/blank.png,art/Stick_it_to_them.png,,,No,1
+Food fight,tabs/PE_Enthusiast.png,backgrounds/PE_Enthusiast.png,1,Spend 1 hall pass for an extra rock,,tabs/flex.png,tabs/backpack.png,tabs/blank.png,art/Food_fight.png,,,No,1
+Bubble battle,tabs/PE_Enthusiast.png,backgrounds/PE_Enthusiast.png,1,Spend 1 gumball for an extra rock,,tabs/flex.png,tabs/candy.png,tabs/blank.png,art/Bubble_battle.png,,,No,1
+Teacher-sanctioned fight,tabs/PE_Enthusiast.png,backgrounds/PE_Enthusiast.png,1,Spend 1 lunch money for an extra rock,,tabs/flex.png,tabs/banana.png,tabs/blank.png,art/Teacher-sanctioned_fight.png,,,No,1
+Sloppy joe mouth,tabs/Mathlete.png,backgrounds/Mathlete.png,1,+1 resource,,tabs/banana.png,tabs/blank.png,tabs/blank.png,art/Sloppy_joe_mouth.png,,,No,1
+Same teams,tabs/Dirt_Specialist.png,backgrounds/Dirt_Specialist.png,1,Keep the other card you play(ed) this turn in place,,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Same_teams.png,,,No,1
+Whip it up,tabs/Dirt_Specialist.png,backgrounds/Dirt_Specialist.png,1,Recruit kids (still pay the cost),,tabs/banana.png,tabs/blank.png,tabs/blank.png,art/Whip_it_up.png,,,No,1
+Get going,tabs/Mathlete.png,backgrounds/Mathlete.png,1,Move kids (still pay the cost),,tabs/backpack.png,tabs/blank.png,tabs/blank.png,art/Get_going.png,,,No,1
+Brown nose,tabs/Hall_Monitor.png,backgrounds/Hall_Monitor.png,1,+1 resource,,tabs/backpack.png,tabs/blank.png,tabs/blank.png,art/Brown_nose.png,,,No,1
+Dirt cheeks,tabs/Dirt_Specialist.png,backgrounds/Dirt_Specialist.png,1,+1 resource,,tabs/bug.png,tabs/blank.png,tabs/blank.png,art/Dirt_cheeks.png,,,No,1
+Scared of germs,tabs/Dirt_Specialist.png,backgrounds/Dirt_Specialist.png,2,,,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Scared_of_germs.png,When bought,Put permanently at back of line,No,1
+But it’s an emergency,tabs/,backgrounds/,2,Backpack tag: +1 resource,,tabs/backpack.png,tabs/blank.png,tabs/blank.png,art/But_it’s_an_emergency.png,,,Yes,1
+Gum gum gatling,tabs/,backgrounds/,2,Candy tag: +1 resource,,tabs/candy.png,tabs/blank.png,tabs/blank.png,art/Gum_gum_gatling.png,,,Yes,1
+Rummage,tabs/Dirt_Specialist.png,backgrounds/Dirt_Specialist.png,2,+2 sticks,,tabs/bug.png,tabs/blank.png,tabs/blank.png,art/Rummage.png,,,No,1
+Main squeeze,tabs/Hall_Monitor.png,backgrounds/Hall_Monitor.png,2,"Pick a player—they are now your boyfriend; to scuffle, you have to break up, which costs them an action but is free for you.
+Swap 1 resource with your boyfriend.",,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Main_squeeze.png,,,No,1
+Scared of monkeys,tabs/PE_Enthusiast.png,backgrounds/PE_Enthusiast.png,2,,,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Scared_of_monkeys.png,When bought,Put permanently at back of line,No,1
+Nice and stuck,tabs/,backgrounds/,2,Bug tag: +1 resource,,tabs/bug.png,tabs/blank.png,tabs/blank.png,art/Nice_and_stuck.png,,,Yes,1
+Complayground interest,tabs/,backgrounds/,2,Banana tag: +1 resource,,tabs/banana.png,tabs/blank.png,tabs/blank.png,art/Complayground_interest.png,,,Yes,1
+Scared of bars,tabs/Mathlete.png,backgrounds/Mathlete.png,2,,,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Scared_of_bars.png,When bought,Put permanently at back of line,No,1
+Friendship handcuffs,tabs/Mathlete.png,backgrounds/Mathlete.png,2,Take a resource of your choice from all players with at least one token on Friendship Bracelet,,tabs/wild.png,tabs/blank.png,tabs/blank.png,art/Friendship_handcuffs.png,,,No,1
+Beef up,tabs/PE_Enthusiast.png,backgrounds/PE_Enthusiast.png,2,+1 rock on all scuffles this turn,,tabs/flex.png,tabs/blank.png,tabs/blank.png,art/Beef_up.png,,,No,1
+Mommy’s treat,tabs/Mathlete.png,backgrounds/Mathlete.png,2,+2 lunch money,,tabs/banana.png,tabs/blank.png,tabs/blank.png,art/Mommy’s_treat.png,,,No,1
+Roll and calculate,tabs/Mathlete.png,backgrounds/Mathlete.png,2,"Roll a die for +2 resources
+1 → lunch money
+2 → hall pass
+3 → stick
+4 → gumball",,tabs/dice.png,tabs/wild.png,tabs/blank.png,art/Roll_and_calculate.png,,,No,1
+Scared of heights,tabs/Hall_Monitor.png,backgrounds/Hall_Monitor.png,2,,,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Scared_of_heights.png,When bought,Put permanently at back of line,No,1
+Jaw strengthening,tabs/All_Cliques.png,backgrounds/All_Cliques.png,2,+2 gumballs,,tabs/candy.png,tabs/blank.png,tabs/blank.png,art/Jaw_strengthening.png,,,No,1
+Teacher’s pet,tabs/Hall_Monitor.png,backgrounds/Hall_Monitor.png,2,+2 hall passes,,tabs/backpack.png,tabs/blank.png,tabs/blank.png,art/Teacher’s_pet.png,,,No,1
+My turn,tabs/Dirt_Specialist.png,backgrounds/Dirt_Specialist.png,2,Move 1 card to the front of the Monkey Bars,,tabs/candy.png,tabs/blank.png,tabs/blank.png,art/My_turn.png,,,No,1
+Noogie,tabs/PE_Enthusiast.png,backgrounds/PE_Enthusiast.png,3,Scuffle all players. Each player you beat gives you 2 resources.,,tabs/dice.png,tabs/blank.png,tabs/blank.png,art/Noogie.png,,,No,1
+Creatine child,tabs/PE_Enthusiast.png,backgrounds/PE_Enthusiast.png,3,+2 rocks on scuffles this turn,,tabs/flex.png,tabs/blank.png,tabs/blank.png,art/Creatine_child.png,,,No,1
+Big bubbles,tabs/All_Cliques.png,backgrounds/All_Cliques.png,3,+3 gumballs,,tabs/candy.png,tabs/blank.png,tabs/blank.png,art/Big_bubbles.png,,,No,1
+Unorthodox play,tabs/Dirt_Specialist.png,backgrounds/Dirt_Specialist.png,3,+2 any resource,,tabs/wild.png,tabs/blank.png,tabs/blank.png,art/Unorthodox_play.png,,,No,1
+Advantage,tabs/,backgrounds/,3,Dice tag: roll twice and choose a result,,tabs/dice.png,tabs/blank.png,tabs/blank.png,art/Advantage.png,,,Yes,1
+Rock out with my chalk out,tabs/,backgrounds/,3,Flex tag: +1 rock for the scuffle,,tabs/flex.png,tabs/blank.png,tabs/blank.png,art/Rock_out_with_my_chalk_out.png,,,Yes,1
+"Stop, drop, and roll",tabs/Hall_Monitor.png,backgrounds/Hall_Monitor.png,3,"Roll a die for +3 resources
+1 → lunch money
+2 → hall pass
+3 → stick
+4 → gumball",,tabs/dice.png,tabs/wild.png,tabs/blank.png,"art/Stop,_drop,_and_roll.png",,,No,1
+Young & wild & free,tabs/Dirt_Specialist.png,backgrounds/Dirt_Specialist.png,3,,,tabs/wild.png,tabs/blank.png,tabs/blank.png,art/Young_&_wild_&_free.png,,,No,1
+Peach fuzz,tabs/,backgrounds/,3,Flex tag: +1 action if you win,,tabs/flex.png,tabs/blank.png,tabs/blank.png,art/Peach_fuzz.png,,,Yes,1
+One and done,tabs/Mathlete.png,backgrounds/Mathlete.png,3,"Replace with a card that costs up to 3 gumballs more than this one. If you do, no buying from the Slide this turn.",,tabs/candy.png,tabs/blank.png,tabs/blank.png,art/One_and_done.png,,,No,1
+Pocket mulch,tabs/Mathlete.png,backgrounds/Mathlete.png,3,Move twice,,tabs/backpack.png,tabs/blank.png,tabs/blank.png,art/Pocket_mulch.png,,,No,1
+C’mere for a sec,tabs/Dirt_Specialist.png,backgrounds/Dirt_Specialist.png,3,Recruit a kid,,tabs/banana.png,tabs/blank.png,tabs/blank.png,art/C’mere_for_a_sec.png,,,No,1
+Deck master 300,tabs/Hall_Monitor.png,backgrounds/Hall_Monitor.png,3,+1 action,,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Deck_master_300.png,,,No,1
+Scout’s honor,tabs/Hall_Monitor.png,backgrounds/Hall_Monitor.png,4,Play a base,,tabs/bug.png,tabs/blank.png,tabs/blank.png,art/Scout’s_honor.png,,,No,1
+Insecure bully,tabs/PE_Enthusiast.png,backgrounds/PE_Enthusiast.png,4,"+1 any resource
+If you win a scuffle this turn: +1 action",,tabs/flex.png,tabs/blank.png,tabs/blank.png,art/Insecure_bully.png,,,No,1
+Roll in mud,tabs/Dirt_Specialist.png,backgrounds/Dirt_Specialist.png,4,"Roll a die for +4 resources
+1 → lunch money
+2 → hall pass
+3 → stick
+4 → gumball",,tabs/dice.png,tabs/blank.png,tabs/blank.png,art/Roll_in_mud.png,,,No,1
+Cootie catcher,tabs/All_Cliques.png,backgrounds/All_Cliques.png,4,"Roll a die for a reward: 
+1 → Place a base or gain 3 sticks
+2 → Recruit a kid
+3 → Move thrice
+4 → Choose any option",,tabs/dice.png,tabs/blank.png,tabs/blank.png,art/Cootie_catcher.png,,,No,1
+Bad breath,tabs/Hall_Monitor.png,backgrounds/Hall_Monitor.png,4,"Solicit kisses from a player. Every time they gain gum, so do you. They can end this by giving you 3 sticks.",,tabs/candy.png,tabs/blank.png,tabs/blank.png,art/Bad_breath.png,,,No,1
+Sound the alarm,tabs/All_Cliques.png,backgrounds/All_Cliques.png,4,Cache 1 rock on a tile you control for each enemy kid there,,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Sound_the_alarm.png,,,No,1
+Doubles,tabs/,backgrounds/,4,Dice tag: double rewards,,tabs/dice.png,tabs/blank.png,tabs/blank.png,art/Doubles.png,,,Yes,1
+4 square,tabs/Mathlete.png,backgrounds/Mathlete.png,4,Gain 1 of every resource,,tabs/wild.png,tabs/blank.png,tabs/blank.png,art/4_square.png,,,No,1
+Young & wild & pricey,tabs/Dirt_Specialist.png,backgrounds/Dirt_Specialist.png,5,,,tabs/wild.png,tabs/wild.png,tabs/wild.png,art/Young_&_wild_&_pricey.png,,,No,1
+Clout chaser,tabs/Mathlete.png,backgrounds/Mathlete.png,5,"Replace with any available card; if you do, no buying from the Slide this turn",,tabs/candy.png,tabs/blank.png,tabs/blank.png,art/Clout_chaser.png,,,No,1
+Gimme,tabs/Hall_Monitor.png,backgrounds/Hall_Monitor.png,5,+4 any resource,,tabs/wild.png,tabs/blank.png,tabs/blank.png,art/Gimme.png,,,No,1
+Wedgie,tabs/PE_Enthusiast.png,backgrounds/PE_Enthusiast.png,5,Scuffle all players. Each player you beat or tie gives you 2 resources.,,tabs/dice.png,tabs/blank.png,tabs/blank.png,art/Wedgie.png,,,No,1
+Cargo shorts,tabs/Mathlete.png,backgrounds/Mathlete.png,5,Repeat the effect of the other card you play(ed) this turn,,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Cargo_shorts.png,,,No,1
+Footrace,tabs/Mathlete.png,backgrounds/Mathlete.png,6,"+1 action, +2 any resource",,tabs/wild.png,tabs/blank.png,tabs/blank.png,art/Footrace.png,,,No,1
+Relentless bully,tabs/Hall_Monitor.png,backgrounds/Hall_Monitor.png,6,Start unlimited scuffles. Each kid may only scuffle once.,,tabs/flex.png,tabs/blank.png,tabs/blank.png,art/Relentless_bully.png,,,No,1
+Prank (2),tabs/,backgrounds/,,,,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Prank_(2).png,Prank,"Prank a player. Next turn, their cards don’t go to the back of the Monkey Bars until both have been played.",No,1
+Prank (1),tabs/,backgrounds/,,,,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Prank_(1).png,Prank,Prank a player. Move kids twice for them.,No,1
+Prank,tabs/,backgrounds/,,,,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Prank.png,Prank,Switch the places of 2 kids that you don’t own.,No,1
+Nice lunch lady,tabs/,backgrounds/,,Banana tag: +1 lunch money,,tabs/banana.png,tabs/blank.png,tabs/blank.png,art/Nice_lunch_lady.png,,,Yes,1
+Keep it moving,tabs/,backgrounds/,,Backpack tag: +1 hall pass,,tabs/backpack.png,tabs/blank.png,tabs/blank.png,art/Keep_it_moving.png,,,Yes,1
+One more piece,tabs/,backgrounds/,,Candy tag: +1 gumball,,tabs/candy.png,tabs/blank.png,tabs/blank.png,art/One_more_piece.png,,,Yes,1
+Stick with us,tabs/,backgrounds/,,Bug tag: +1 stick,,tabs/bug.png,tabs/blank.png,tabs/blank.png,art/Stick_with_us.png,,,Yes,1
+Loaded Dice,tabs/,backgrounds/,,Dice tag: you may add +/- 1 to your roll,,tabs/dice.png,tabs/blank.png,tabs/blank.png,art/Loaded_Dice.png,,,Yes,1
+Grounded,tabs/,backgrounds/,,Replace a starting card with this one. Place permanently at back of Monkey Bar line.,,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Grounded.png,,,Yes,1
+I insist,tabs/,backgrounds/,,Candy tag: move 1 card to any space behind it on the Monkey Bars,,tabs/candy.png,tabs/blank.png,tabs/blank.png,art/I_insist.png,,,Yes,1
+Full Pockets,tabs/,backgrounds/,,Flex tag: +1 rock,,tabs/flex.png,tabs/blank.png,tabs/blank.png,art/Full_Pockets.png,,,Yes,1
+Gift from mom,tabs/,backgrounds/,,,,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Gift_from_mom.png,Prank,Prank a player. All players except them gain 2 gumballs.,No,1
+Planking,tabs/,backgrounds/,,,,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Planking.png,Prank,Prank a player. All players except them gain 2 sticks.,No,1
+In with the narks,tabs/,backgrounds/,,,,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/In_with_the_narks.png,Prank,Prank a player. All players except them gain 2 hall passes.,No,1
+Extra slop,tabs/,backgrounds/,,,,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Extra_slop.png,Prank,Prank a player. All players except them gain 2 lunch money.,No,1
+Tabletop,tabs/,backgrounds/,,,,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Tabletop.png,Prank,Prank a player. All players except them gain a resource of your choice.,No,1
+Fire drill,tabs/,backgrounds/,,,,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Fire_drill.png,Prank,Prank a player. Roll the dice—all players except them pick up.,No,1
+Tattletale,tabs/,backgrounds/,,,,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Tattletale.png,Prank,Tattle on a player. They have to pay 3 resources to start scuffles next turn.,No,1
+Smarty pants,tabs/Mathlete.png,backgrounds/Mathlete.png,,+1 lunch money,,tabs/banana.png,tabs/blank.png,tabs/blank.png,art/Smarty_pants.png,,,No,5
+Kid cop,tabs/Hall_Monitor.png,backgrounds/Hall_Monitor.png,,+1 hall pass,,tabs/backpack.png,tabs/blank.png,tabs/blank.png,art/Kid_cop.png,,,No,5
+I’m not sharing,tabs/Hall_Monitor.png,backgrounds/Hall_Monitor.png,,"Roll the dice, only you pick up",,tabs/dice.png,tabs/blank.png,tabs/blank.png,art/I’m_not_sharing.png,,,No,5
+Friendship bracelet,tabs/Dirt_Specialist.png,backgrounds/Dirt_Specialist.png,,"+1 token to this card
+Once between turns: when another player uses Friendship Bracelet, gain 1 resource per token",,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Friendship_bracelet.png,,,No,5
+Covered in mud,tabs/Dirt_Specialist.png,backgrounds/Dirt_Specialist.png,,+1 stick,,tabs/bug.png,tabs/blank.png,tabs/blank.png,art/Covered_in_mud.png,,,No,5
+Jawbreaker,tabs/PE_Enthusiast.png,backgrounds/PE_Enthusiast.png,,+1 gumball,,tabs/candy.png,tabs/flex.png,tabs/blank.png,art/Jawbreaker.png,,,No,5
+Clout,tabs/All_Cliques.png,backgrounds/All_Cliques.png,9,,,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Clout.png,When bought,+1 clout,No,7
+Peace offering,tabs/All_Cliques.png,backgrounds/All_Cliques.png,0,Stop an incoming scuffle by playing this card and giving the attacker 1 gum,,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Peace_offering.png,,,No,
+Playground karma,tabs/Dirt_Specialist.png,backgrounds/Dirt_Specialist.png,6,"Give up to 3 resources to other players. For each that you give, gain 3 of the same.",,tabs/blank.png,tabs/blank.png,tabs/blank.png,art/Playground_karma.png,,,No,
